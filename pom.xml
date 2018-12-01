@@ -41,12 +41,12 @@
 	<distributionManagement>
 
 		<repository>
-			<id>suresh7_hv</id>
-			<url>http://localhost:8081/nexus/content/repositories/suresh7_hv/</url>
+			<id>mahi1</id>
+			<url>http://localhost:8081/nexus/content/repositories/mahi1/</url>
 		</repository>
 		<snapshotRepository>
-			<id>suresh71_hv</id>			
-			<url>http://localhost:8081/nexus/content/repositories/suresh71_hv/</url>
+			<id>mahi12</id>			
+			<url>http://localhost:8081/nexus/content/repositories/mahi12/</url>
 		</snapshotRepository>		
   </distributionManagement>
 
